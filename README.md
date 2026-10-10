@@ -3,6 +3,7 @@
 A machine learning project that predicts whether a loan will be **Approved** or **Not Approved**. The final model is shown in an interactive web app built with Gradio.
 
 ## 📊 Dataset
+ **Source:** [Loan Approval Classification Dataset (Kaggle)](https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data)
 Loan approval dataset from Kaggle (about 45,000 records).
 Target column: `Loan Status` (1 = Approved, 0 = Not Approved).
 
