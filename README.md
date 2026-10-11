@@ -28,7 +28,7 @@ Target column: `Loan Status` (1 = Approved, 0 = Not Approved).
 Random Forest gave the best result.
 
 ## 🛠️ Tools Used
-Python, Pandas, NumPy, Matplotlib, Scikit-learn, Gradio, Google Colab
+Python, Pandas, NumPy, Matplotlib, Scikit-learn, Gradio, Google Colab , model.pkl
 
 ## Loan_approval (output) link
 https://18d9b7a5bbcce9782f.gradio.live/
