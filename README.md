@@ -30,6 +30,9 @@ Random Forest gave the best result.
 ## 🛠️ Tools Used
 Python, Pandas, NumPy, Matplotlib, Scikit-learn, Gradio, Google Colab
 
+## Loan_approval (output) link
+https://18d9b7a5bbcce9782f.gradio.live/
+
 ## 👩‍💻 Author
 **Drashti Gohel**
 [GitHub](https://github.com/drashtitech09)
